@@ -1,0 +1,31 @@
+Email Spam Detection ML Project
+
+Project Overview:
+This project uses Machine Learning to detect whether an email message is Spam or Not Spam(ham).
+
+Technologies Used
+- Python
+- Pandas
+- Scikit-learn
+- Google Colab
+
+Dataset
+The dataset used in this project is spam.csv, which contains email messages labeled as spam or ham.
+
+## Machine Learning Model
+The model used for this project is Naive Bayes, which is commonly used for text classification tasks.
+
+ How to Run the Project
+1. Open the notebook in Google Colab.
+2. Run all cells.
+3. The model will train and classify emails as spam or not spam.
+
+Example
+Input: "Congratulations! You won a free lottery ticket"  
+Output: Spam
+
+Input: "Hi, are we meeting today?"  
+Output: Not spam(ham)
+
+Author
+Vaishnavi Bhusa
